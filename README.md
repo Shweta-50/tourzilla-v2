@@ -13,5 +13,5 @@
 [Click Here for other Hosting with backend v1](https://tourzilla.000webhostapp.com/mytourzilla/)
 
 ### Contributors of this Project
-[Shweta Yadav](https://github.com/shweta-50) | 
+[Himanshu Gulati](https://github.com/iamhimanshugulati) | 
 [Priyam Agnihotri](https://github.com/priyam-272)
